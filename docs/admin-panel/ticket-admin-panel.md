@@ -11,19 +11,19 @@
 
    - در صفحه مشاهده شده، نام‌کاربری و رمز خود را وارد کنید:
 
-   <img src="images/1.PNG" alt="login" width="400" height="350">
+   <img src="images/1.PNG" alt="login" width="400" height="350"/>
 
 3. **ورود موفقیت‌آمیز**
 
    - در صورت ورود موفقیت آمیز با صفحه زیر مواجه خواهید شد:
 
-   <img src="images/2.PNG" alt="support-admin-panel" width="700" height="200">
+   <img src="images/2.PNG" alt="support-admin-panel" width="700" height="200"/>
 
 4. **مشاهده تیکت‌های ثبت شده**
 
    - پس از کلیک بر روی tickets می‌توانید لیست تیکت‌های موجود را ببینید:
 
-   <img src="images/3.PNG" alt="list-of-tickets" width="600" height="350">
+   <img src="images/3.PNG" alt="list-of-tickets" width="600" height="350"/>
 
    - اطلاعات کلی هر تیکت در این قسمت قابل مشاهده است. برای پاسخگویی به تیکت و تغییر وضعیت تیکت روی تیکت مدنظر کلیک کنید
 
@@ -31,27 +31,27 @@
 
    - پس از کلیک بر روی تیکت مدنظر با بخش‌های مختلفی روبرو می‌شوید که در ابتدا اطلاعات تیکت قابل مشاهده است:
 
-   <img src="images/4.PNG" alt="list-of-tickets" width="600" height="350">
+   <img src="images/4.PNG" alt="list-of-tickets" width="600" height="350"/>
 
    - در این قسمت می‌توانید وضعیت تیکت را به یکی از حالت‌های زیر تغییر دهید:
 
-   <img src="images/5.PNG" alt="status-of-ticket" width="300" height="150">
+   <img src="images/5.PNG" alt="status-of-ticket" width="300" height="150"/>
 
 6. **پاسخ‌دادن به تیکت‌ها**
 
    - در قسمت بعدی می‌توانید پاسخ خود به تیکت را وارد کرده و در نهایت زمان مربوط به پاسخ دهی را وارد کنید
 
-   <img src="images/6.PNG" alt="list-of-tickets" width="700" height="350">
+   <img src="images/6.PNG" alt="list-of-tickets" width="700" height="350"/>
 
    - در نهایت کاربری که تیکت‌را پاسخ‌داده در قسمت مشخص تصویر زیر انتخاب کنید:
 
-   <img src="images/7.PNG" alt="status-of-ticket" width="320" height="150">
+   <img src="images/7.PNG" alt="status-of-ticket" width="320" height="150"/>
 
 7. **نهایی سازی پاسخ به تیکت**
 
    - در نهایت بعد از کلیک بر روی دکمه save تغییرات شما ذخیره می‌شود. در ادامه به صفحه لیست تیکت‌ها هدایت می‌شوید و در صورت موفقیت، پیام زیر را مشاهده خواهبد کرد:
 
-   <img src="images/8.PNG" alt="list-of-tickets" width="800" height="50">
+   <img src="images/8.PNG" alt="list-of-tickets" width="800" height="50"/>
 
 ## دسته‌بندی‌های تیکت
 
@@ -76,7 +76,7 @@
 
 ## تماس با پشتیبانی
 
-- **ایمیل:** support@laklakbox.ir
+- **ایمیل:** <support@laklakbox.ir>
 - **تلفن:** 123-456-7890
 - **آدرس:** تهران، خیابان مثال، پلاک 123
 
